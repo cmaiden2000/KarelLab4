@@ -1,3 +1,5 @@
+package lab_3.KarelLab4;
+
 
 import kareltherobot.*;
 import java.awt.Color;
